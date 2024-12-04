@@ -1,0 +1,22 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+html {
+    font-family: sans-serif;
+    /* Buraya eklediğimiz yazı fontları  */
+}
+
+.navbar {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    
+}
